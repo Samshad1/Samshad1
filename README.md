@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samshad1
-- 👀 I’m interested in front-end dev and data Analytics 
-- 🌱 I’m currently learning front-end at Alx Aftica 
+- 👀 I am a data Analyst who has been practising for a year now. 
+- 🌱 I am very mush intrigued by AI and I have strong intrest in Data Scince and Machine Learning
 - 💞️ I’m looking to collaborate on projects 
 - 📫 You can me reach via email: sanisamuel1000@gmail.com 
 
